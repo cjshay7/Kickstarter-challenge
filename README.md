@@ -44,7 +44,7 @@
 
 ##**Conclusion**
 
-###Plays that fell in the 30000-34999, had a 100% success rate. I did not find any limitation with the data set. Additional charts that could be used to show the results are a stacked bar chart and line chart with points. 
+###Plays that fell in the 30000-34999, had a 100% success rate. I did not find any limitation with the data set. Additional charts that could be used to show the results are a stacked bar chart and line chart with points.
 
 
 
