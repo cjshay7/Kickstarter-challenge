@@ -16,6 +16,17 @@
 
 #Using the pivot table, a line chart was created to give a visual representation of the relationship between various outcomes and the launch month. 
 
+https://github.com/cjshay7/Kickstarter-challenge/blob/main/Resources/Theater_Outcomes_vs_Launch.png
+
+![Screenshot](/Resources/Theather_Outcomes_vs_Launch.png)
+
+<img src="Resources/Theater_Outcomes_vs_Launch.png">
+
+
+
+
+
+
 
 
 
