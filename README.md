@@ -38,7 +38,7 @@
 
 ###Using the data on the **Outcome Based on Goals** spreadsheet, a line chart was created to show the relationship between the goal amount ranges and percentage of successful, failed and canceled projects. 
 
->img src="Resources/Outcomes_vs_Goals.png">
+<img src="Resources/Outcomes_vs_Goals.png">
 
 ###Using the Countifs funtion was diffult to grasp and I made several mistakes. I would say this was the most diffuclt task with the analysis. In addition, using the sum function and calculating the percentages was somewhat diffucult. I was able us reflect back on some of the classwork and resources on Google to work throgh my challenges. 
 
